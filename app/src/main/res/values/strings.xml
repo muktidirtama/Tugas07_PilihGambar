@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas07_PilihGambar</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="gambar">
+        <item>audi</item>
+        <item>ferrari</item>
+        <item>Bugatti</item>
+        <item>Toyota</item>
+        <item>koenigsegagera</item>
+    </string-array>
+</resources>
